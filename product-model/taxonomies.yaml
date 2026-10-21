@@ -1,0 +1,13 @@
+scenarioKinds:
+- id: primary
+  name: Primary
+  description: An ordinary successful use.
+- id: alternative
+  name: Alternative
+  description: Another supported route or result.
+- id: validation
+  name: Validation
+  description: Input that needs correction.
+- id: edge
+  name: Edge
+  description: An external failure, conflict or boundary condition.
